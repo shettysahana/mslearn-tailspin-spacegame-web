@@ -1,3 +1,4 @@
-pool: MyAgentPool
+pool: 
+name: Defaultdefault
 steps:
 - bash: echo hello world
